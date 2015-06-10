@@ -1,2 +1,2 @@
 # flash-android
-flash app in android
+simple flash light app in android
